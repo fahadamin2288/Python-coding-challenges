@@ -1,4 +1,4 @@
-# This python program takes a list of numbers as input and returns the maximum number in the list.
+# This python program takes a list of numbers as input and returns the maximum and minimum number in the list.
 
 
 def find_max_and_num(num):
