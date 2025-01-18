@@ -19,6 +19,5 @@ def unique_frequency_checker(string):
     return False
 
 
-# s = "xyz"
-s = "xxxxyyzz"
+s = input("Please enter the string: ")
 print(unique_frequency_checker(s))
